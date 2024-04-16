@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/github.io/dockerwave/static/css/main.21233746.css",
-    "main.js": "/github.io/dockerwave/static/js/main.691033e4.js",
-    "static/media/wave.png": "/github.io/dockerwave/static/media/wave.60ef2542111414549ee9.png",
-    "static/media/docker.png": "/github.io/dockerwave/static/media/docker.627cfbafbc988a78dc85.png",
-    "static/media/view.png": "/github.io/dockerwave/static/media/view.c7eee142105087d59854.png",
-    "static/media/dash.png": "/github.io/dockerwave/static/media/dash.b94a8ee09468d4f5c9ec.png",
-    "static/media/push.png": "/github.io/dockerwave/static/media/push.0ba25595fce1a397708d.png",
-    "static/media/pull.png": "/github.io/dockerwave/static/media/pull.6bb523ded75417dee6d5.png",
-    "index.html": "/github.io/dockerwave/index.html",
-    "main.21233746.css.map": "/github.io/dockerwave/static/css/main.21233746.css.map",
-    "main.691033e4.js.map": "/github.io/dockerwave/static/js/main.691033e4.js.map"
+    "main.css": "/dockerwave/static/css/main.21233746.css",
+    "main.js": "/dockerwave/static/js/main.39944edf.js",
+    "static/media/wave.png": "/dockerwave/static/media/wave.60ef2542111414549ee9.png",
+    "static/media/docker.png": "/dockerwave/static/media/docker.627cfbafbc988a78dc85.png",
+    "static/media/view.png": "/dockerwave/static/media/view.c7eee142105087d59854.png",
+    "static/media/dash.png": "/dockerwave/static/media/dash.b94a8ee09468d4f5c9ec.png",
+    "static/media/push.png": "/dockerwave/static/media/push.0ba25595fce1a397708d.png",
+    "static/media/pull.png": "/dockerwave/static/media/pull.6bb523ded75417dee6d5.png",
+    "index.html": "/dockerwave/index.html",
+    "main.21233746.css.map": "/dockerwave/static/css/main.21233746.css.map",
+    "main.39944edf.js.map": "/dockerwave/static/js/main.39944edf.js.map"
   },
   "entrypoints": [
     "static/css/main.21233746.css",
-    "static/js/main.691033e4.js"
+    "static/js/main.39944edf.js"
   ]
 }
