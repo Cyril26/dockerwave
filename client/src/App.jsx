@@ -10,7 +10,7 @@ import ViewContainer from "./pages/ViewContainer";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/dockerwave">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/login" element={<LoginPage />} />
